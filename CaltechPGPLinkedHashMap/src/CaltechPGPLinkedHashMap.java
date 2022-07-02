@@ -1,4 +1,4 @@
-// This program illustrates the application of HashMaps
+// This program illustrates the application of LinkedHashMaps
 // author @thomami244 Michael Thomas
 
 
